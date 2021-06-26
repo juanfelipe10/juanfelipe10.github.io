@@ -11,7 +11,7 @@ estaran subrayados */
  color: white; /* Color del texto */
  font-family: Arial, Helvetica, sans-serif; /* la fuente
 */
- text-align: left; /* la alineación del texto */
+ text-align: center; /* la alineación del texto */
  }
  footer {
  margin-top: 2rem;
