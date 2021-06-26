@@ -1,14 +1,14 @@
-a { color: black; /* Color del texto */
+a { color: blue; /* Color del texto */
  text-decoration: none; /* Con esto los links no
 estaran subrayados */
  }
- a:hover { color: pink;
+ a:hover { color: red;
  text-decoration: none;
  }
  body {
- background-color: black; /* color de toda la página
+ background-color: beige; /* color de toda la página
 */
- color: white; /* Color del texto */
+ color: black; /* Color del texto */
  font-family: Arial, Helvetica, sans-serif; /* la fuente
 */
  text-align: center; /* la alineación del texto */
