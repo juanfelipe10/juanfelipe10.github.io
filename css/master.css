@@ -1,8 +1,8 @@
-a { color: blue; /* Color del texto */
+a { color: red; /* Color del texto */
  text-decoration: none; /* Con esto los links no
 estaran subrayados */
  }
- a:hover { color: red;
+ a:hover { color: green;
  text-decoration: none;
  }
  body {
