@@ -1,0 +1,26 @@
+a { color: blue; /* Color del texto */
+ text-decoration: none; /* Con esto los links no
+estaran subrayados */
+ }
+ a:hover { color: red;
+ text-decoration: none;
+ }
+ body {
+ background-color: beige; /* color de toda la página
+*/
+ color: black; /* Color del texto */
+ font-family: Arial, Helvetica, sans-serif; /* la fuente
+*/
+ text-align: center; /* la alineación del texto */
+ }
+ footer {
+ margin-top: 2rem;
+ margin-bottom: 2rem;
+ }
+ margin-bottom: 0;
+margin-top: 2rem;
+}
+ hr {
+ margin-bottom: 3rem;
+ margin-top: 3rem;
+ }
