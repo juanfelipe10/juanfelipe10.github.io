@@ -2,7 +2,7 @@ a { color: black; /* Color del texto */
  text-decoration: none; /* Con esto los links no
 estaran subrayados */
  }
- a:hover { color: red;
+ a:hover { color: pink;
  text-decoration: none;
  }
  body {
